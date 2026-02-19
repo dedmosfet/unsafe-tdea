@@ -1,2 +1,4 @@
 # unsafe-tdea
-An implementation of TDEA encryption algorithm in C++
+Unsafe to use in prod!!
+My implementation of TDEA encryption algorithm in C++
+Posted for educational or testing purposes
